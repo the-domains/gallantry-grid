@@ -1,6 +1,6 @@
 name: Gallantry GRID
 favicon: null
-layout_spectrum: 0.22172450949437916
+layout_spectrum: 1
 typography_spectrum: 0.48444
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#401035'
     - '#784b45'
     - '#6d3a1d'
-  brandStrength: 0
-  lightness: 0
+  brandStrength: 1
+  lightness: 0.1875
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
