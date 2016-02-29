@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Gallantry GRID]]></title>
         <description><![CDATA[Gallantry GRID]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gallantry-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 20:45:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 21:07:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gallantry-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gallantry Web Design]]></title>
+            <description><![CDATA[<article><h1>Gallantry Web Design</h1><p>Custom Made We design custom made sites built around your specific needs. Each site is unique; crafted with the personal attention you and your business deserves from professionals with over 18 years of experience. Responsive Design In the age of mobile devices, it is critical that your site is accessible to all.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78c62272-1397-4d18-bba2-f442f440bf23.jpg"></article>]]></description>
+            <link>http://www.gallantrywebdesign.com/</link>
+            <guid isPermaLink="false">d328312c-a61c-4dfe-99a7-404287ce0984</guid>
+            <pubDate>Mon, 29 Feb 2016 21:06:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f20ae03f-266a-42e7-891f-1594c5076a2d.jpg">]]></description>
-            <link>undefineddd912be4-b750-4599-bcf8-ebcd235d0ebf/index.html</link>
+            <link>https://thegrid.ai/gallantry-grid/dd912be4-b750-4599-bcf8-ebcd235d0ebf/index.html</link>
             <guid isPermaLink="false">dd912be4-b750-4599-bcf8-ebcd235d0ebf</guid>
             <pubDate>Mon, 29 Feb 2016 20:44:30 GMT</pubDate>
         </item>
